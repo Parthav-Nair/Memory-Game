@@ -1,0 +1,24 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+*{
+    background-color:black;
+    color:white;
+    font-family: 'Unkempt', cursive;
+}
+
+@keyframes anime{
+        from{
+            top:-300px;
+            opacity: 0;
+        }
+        to{
+            top:50%;
+            opacity: 0.5;
+    }
+}
+
