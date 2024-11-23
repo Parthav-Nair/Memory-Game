@@ -1,7 +1,7 @@
 import React, { useEffect, useState  } from "react";
 import axios from "axios";
 import ScoreBoard from "./ScoreBoard";
-import ShufflingCharacters from "./shuffle";
+import ShufflingCharacters from "./Shuffle";
 import { Tilt } from "react-tilt";
 
 
